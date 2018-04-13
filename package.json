@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "sinon": "^4.3.0"
+  }
+}
